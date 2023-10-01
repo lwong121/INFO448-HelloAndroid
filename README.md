@@ -147,4 +147,4 @@ We will clone and build it from your GitHub repo. We will not get code from any 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
 
 ## Extra Credit: Developer Option
-The "Show taps" developer option is used to show the precise location of your screen taps with a small circle on the screen. I think this feature will be very useful in this class whenever I do demos or film videos on my device to show how my app works. This is so that the viewers can easily follow along with what I am doing and what I tap on.
+The "Show taps" developer option is used to show the precise location of your screen taps with a small circle on the screen. I think this feature will be very useful for me in this class whenever I do demos or film videos on my device to show how my app works. This is so that the viewers can easily follow along with what I am doing and what I tap on.
