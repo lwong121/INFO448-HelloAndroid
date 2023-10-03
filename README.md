@@ -1,4 +1,10 @@
 # UW Homework: Hello Android
+
+## Extra Credit:
+The video for "Show Layout Bounds" feature is in the "screenshots" folder.
+
+**Developer Option:** The "Show taps" developer option is used to show the precise location of your screen taps with a small circle on the screen. I think this feature will be very useful for me in this class whenever I do demos or film videos on my device to show how my app works. This is so that the viewers can easily follow along with what I am doing and what I tap on. With this in mind, I think I will definitely be able to use this feature this quarter.
+
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
 * run Android Studio
@@ -145,6 +151,3 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
-
-## Extra Credit: Developer Option
-The "Show taps" developer option is used to show the precise location of your screen taps with a small circle on the screen. I think this feature will be very useful for me in this class whenever I do demos or film videos on my device to show how my app works. This is so that the viewers can easily follow along with what I am doing and what I tap on.
